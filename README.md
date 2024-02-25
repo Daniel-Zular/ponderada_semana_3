@@ -19,3 +19,6 @@ Daniel Zular
 5. **Tentativa de inserção em uma tabela cheia:**
    - Continuar inserindo itens até que `isFull()` retorne verdadeiro (ou seja, que deu o limite).
    - Tentar inserir outro item e ver que não é possível.
+  
+### Resultado
+![resultado](imagens/TELA.png)
